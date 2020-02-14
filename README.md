@@ -1,5 +1,8 @@
-# EasyDarwin #
+# EasyDarwin Cpp版本#
 
+当前仓库仅保存EasyDarwin的Cpp版本，同步主仓库，可能会merge其他开发者的新增feature，并保留项目相关的介绍。
+
+##  EasyDarwin说明
 **EasyDarwin**是由国内开源流媒体团队维护和迭代的一整套开源流媒体视频平台框架，从2012年12月创建并发展至今，包含有单点服务的开源流媒体服务器，和扩展后的流媒体云平台架构的开源框架，开辟了诸多的优质开源项目，能更好地帮助广大流媒体开发者和创业型企业快速构建流媒体服务平台，更快、更简单地实现最新的移动互联网(安卓、iOS、H5、微信)流媒体直播与点播的需求，尤其是安防行业与互联网行业的衔接，EasyDarwin流媒体技术，助力传统行业升级转型！
 
 ## EasyDarwin开源项目（7Project） ##
@@ -26,7 +29,7 @@ EasyDarwin开源项目至今包括有：**EasyDarwin**（开源流媒体服务�
 EasyDarwin RTSP流媒体服务器完全开源，EasyDarwin RTSP流媒体服务器在Darwin Streaming Server基础上做的优化和迭代，完全开源！后续也将继续扩展的录像、回放等多种服务和工具集，各个功能单元既可以独立使用于项目，又可以整体使用，形成一个完整、简单、易用、高效的流媒体解决方案！
 
 
-## EasyDarwin商业项目（8Project） ##
+## EasyDarwin的商业项目（8Project） ##
 同时，EasyDarwin开源团队也开发了很多流媒体方面的商业项目，包括有：
 
 1. **EasyPlayer** 是一款精炼、高效、稳定的流媒体播放器，分为RTSP版和Pro版本，EasyPlayer RTSP版本支持Windows(支持多窗口、包含ActiveX，npAPI Web插件)、Android、iOS多个平台，EasyPlayerPro支持Android、iOS，支持各种各样的流媒体音视频直播/点播播放，项目地址：[https://github.com/EasyDarwin/EasyPlayer](https://github.com/EasyDarwin/EasyPlayer "EasyPlayer")；
@@ -79,43 +82,5 @@ EasyDarwin云平台是一套由EasyDarwin、EasyCMS、EasyCamera、EasyClient、
 
 ![EasyClient iOS](http://www.easydarwin.org/github/images/firimeasyclientios170228.png)
 
-## 商务合作 ##
-#### 我们欢迎的合作模式： ####
-
-越来越多的企业选择EasyDarwin开源平台作为他们产品和项目的基础，从而也产生了越来越多各种各样的需求，EasyDarwin开源团队接受与企业的项目合作：
-
-- EasyDarwin平台现有项目的技术咨询与培训合作；
-- EasyDarwin平台大方向上新项目/新技术的拓展合作；
-
-#### 技术合作找Babosa@EasyDarwin.org： ####
-- 邮件:Babosa@EasyDarwin.org
-
-## 捐赠您自己的项目 ##
-
 
 **EasyDarwin**从发展至今，从最初单纯的流媒体服务器EasyDarwin，已经发展成为一个非常丰富的流媒体开源社区了，目前EasyDarwin Github所有的开源项目，有EasyDarwin开源团队开发，也有外部开发者贡献给EasyDarwin社区的，并由原始作者和EasyDarwin开源团队一起进行后续的开发和维护；
-
-#### 捐赠的好处 ####
-
-捐赠进入EasyDarwin社区的开源项目，必须命名以Easy前缀打头，项目捐赠进入EasyDarwin开源社区，会有非常庞大的流媒体社区用户使用，帮助您修复项目bug，快速进行功能迭代，并且有开源团队和开源社区的大牛来帮助您解决诸多棘手的问题，对提升项目和个人技术水平，都是非常有益的；
-
-#### 捐赠的方法 ####
-
-捐赠渠道：
-
-1. 发送邮件到：support@easydarwin.org or  babosa@easydarwin.org；
-2. 加EasyDarwin项目创始人QQ：289042893 沟通；
-
-记得附上项目具体说明；
-
-## 获取更多信息 ##
-
-邮件：[support@easydarwin.org](mailto:support@easydarwin.org) 
-
-WEB：[www.EasyDarwin.org](http://www.easydarwin.org)
-
-QQ交流群：[288214068](http://jq.qq.com/?_wv=1027&k=2Dlyhr7 "EasyDarwin交流群1") / [496258327](http://jq.qq.com/?_wv=1027&k=2Hyz2ea "EasyDarwin交流群2")
-
-Copyright &copy; www.EasyDarwin.org 2012-2017
-
-![EasyDarwin](http://www.easydarwin.org/skin/easydarwin/images/wx_qrcode.jpg)
